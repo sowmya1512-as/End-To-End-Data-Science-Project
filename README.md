@@ -31,6 +31,10 @@ output of the task:
 
 <img width="1454" height="694" alt="Image" src="https://github.com/user-attachments/assets/ee420085-fb71-4cb1-aaa2-8fdee005ff7d" />
 
+
+
 <img width="537" height="279" alt="Image" src="https://github.com/user-attachments/assets/60429a6d-14f6-4b9a-ba07-43a1f227b830" />
+
+
 
 <img width="643" height="304" alt="Image" src="https://github.com/user-attachments/assets/241f2612-ffc1-4ebd-8f4c-ac3702d59860" />
